@@ -35,8 +35,8 @@ I’m passionate about improving software quality through thorough manual testin
 ## 📄 PDF Documentation
 
 Here are some PDF examples of my case documentation and test reports:  
-- [Case Documentation 1]([docs/QA Test Report  AI Powered CV Analysis Tool.pdf](https://github.com/gabeaji/manual-qa-portfolio/blob/main/docs/case-documentation-1.pdf))
-- [Case Documentation 2]([link-to-your-pdf-2.pdf](https://github.com/gabeaji/manual-qa-portfolio/blob/main/docs/case-documentation-2.pdf))
+- [Case Documentation 1](docs/case-documentation-1.pdf)
+- [Case Documentation 2](docs/case-documentation-2.pdf)
 
 ---
 

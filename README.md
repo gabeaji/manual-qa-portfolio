@@ -30,13 +30,13 @@ Here are some PDF examples of my case documentation and test reports:
 
 ## 🛠️ Projects Contributed To
 
-- _I am new to open source and eager to contribute!_
+- _I am new to open source and eager to contribute_
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🤝 Let’s Collaborate
 
-If you have a project that needs manual QA testing, feel free to reach out!  
+If you have a project that needs manual QA testing, feel free to reach out  
 - **GitHub:** [gabeaji](https://github.com/gabeaji)
 - **Email:** [gabrielajibaniya@gmail.com](mailto:gabrielajibaniya@gmail.com)
 - **Upwork:** [Gabriel SAMUEL](https://www.upwork.com/freelancers/~0140165e0d2d4c57be?mp_source=share)

@@ -1,6 +1,6 @@
 # Manual QA Portfolio
 
-I'm Gabriel SAMUEL, a Manual QA Tester.**  
+I'm Gabriel SAMUEL, a Manual QA Tester.  
 I’m passionate about improving software quality through thorough manual testing, clear bug reporting, and collaborative feedback. I am open to contributing to open source and helping developers deliver reliable products.
 
 [![Upwork - Gabriel SAMUEL](https://img.shields.io/badge/Upwork-Profile-green)](https://www.upwork.com/freelancers/~0140165e0d2d4c57be?mp_source=share)

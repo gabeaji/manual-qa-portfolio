@@ -20,18 +20,6 @@ I am passionate about improving software quality through thorough manual testing
 
 ---
 
-## ✅ Sample Test Cases
-
-| Test Case ID | Feature/Area      | Steps                                      | Expected Result             | Pass/Fail |
-|--------------|-------------------|--------------------------------------------|-----------------------------|-----------|
-| TC-01        | Login             | Enter valid credentials, click Login       | Dashboard loads             |           |
-| TC-02        | Registration      | Leave email blank, submit form             | "Email required" error      |           |
-| TC-03        | Profile Update    | Change avatar, save profile                | Avatar updates successfully |           |
-| TC-04        | Password Reset    | Request password reset, check email        | Email received              |           |
-| TC-05        | Logout            | Click Logout on dashboard                  | User redirected to login    |           |
-
----
-
 ## 📄 PDF Documentation
 
 Here are some PDF examples of my case documentation and test reports:  

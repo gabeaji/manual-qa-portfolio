@@ -28,10 +28,6 @@ Here are some PDF examples of my case documentation and test reports:
 
 ---
 
-## 🛠️ Projects Contributed To
-
-- _I am new to open source and eager to contribute_
-
 ---
 
 ## 🤝 Let’s Collaborate
